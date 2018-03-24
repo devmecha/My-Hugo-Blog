@@ -1,5 +1,6 @@
 baseurl = "http://humboldtux.github.io/sbcb-demo"
 themeDir = "themes"
+publishDir ="docs"
 title = "DevMecha Blog"
 canonifyurls = true
 paginate = 10
