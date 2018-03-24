@@ -1,4 +1,4 @@
-baseurl = "http://humboldtux.github.io/sbcb-demo"
+baseurl = "https://devmecha.github.io/My-Hugo-Blog/"
 themeDir = "themes"
 publishDir ="docs"
 title = "DevMecha Blog"
